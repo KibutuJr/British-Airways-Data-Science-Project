@@ -67,7 +67,7 @@ Some of the visual outputs include:
    ```
    git clone https://github.com/KibutuJr/British-Airways-Data-Science-Project.git
    cd British-Airways-Data-Science-Project
-````
+```
 
 2. **Create a virtual environment (optional but recommended)**
 
@@ -89,7 +89,7 @@ Some of the visual outputs include:
    jupyter notebook
    ```
 
-   Then open `analysis.ipynb` and run the cells.
+   Then open `Getting Stated.ipynb` and run the cells.
 
 ---
 
