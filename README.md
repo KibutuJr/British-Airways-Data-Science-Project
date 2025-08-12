@@ -22,11 +22,11 @@ The project covers **data collection, cleaning, exploratory data analysis, visua
 
 📁 British Airways Data Science Project
 │── 📄 README.md              # Project documentation
-│── 📄 Getting Started.ipynb         # Main Jupyter Notebook with all analysis
+│── 📄 Getting Started.ipynb  # Main Jupyter Notebook with all analysis
 │── 📄 requirements.txt       # Python dependencies
-│── 📄 Customer Booking Data.csv               # Dataset
+│── 📄 Customer Booking Data.csv     # Dataset
 │── 📁 images/                # Task 1(TABLE) and Task 1(Justification)
-│── 📁 presentations- task 2/               # Generated reports & presentations
+│── 📁 presentations- task 2  #Generated reports & presentations
 
 ````
 
@@ -67,7 +67,7 @@ Some of the visual outputs include:
    ```
    git clone https://github.com/KibutuJr/British-Airways-Data-Science-Project.git
    cd British-Airways-Data-Science-Project
-```
+   ```
 
 2. **Create a virtual environment (optional but recommended)**
 
@@ -113,7 +113,5 @@ Some of the visual outputs include:
 
 This project is for educational purposes and is based on the [Forage British Airways Virtual Experience](https://www.theforage.com/).
 Please refer to the **dataset source** for licensing restrictions.
-
-```
 
 ---
