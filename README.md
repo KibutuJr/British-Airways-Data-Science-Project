@@ -103,7 +103,7 @@ Some of the visual outputs include:
 
 ## 🏆 Credits
 
-* **Author:** Fred Kibutu
+* **Author:** [Fred Kibutu](https://kibutujr.vercel.app/)
 * **project:** British Airways Data Science – Forage
 * **Date:** 2025
 
